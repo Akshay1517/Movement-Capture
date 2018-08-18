@@ -1,1 +1,3 @@
 # Movement-Capture
+
+Firstly you need to install opencv for python in your machine. After you run this code this will show the output of movement in webcam in your machine...
